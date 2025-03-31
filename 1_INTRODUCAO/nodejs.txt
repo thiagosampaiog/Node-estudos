@@ -1,0 +1,7 @@
+NODE.JS - Escreve javascript e um compilador transforma em C++
+ou seja uma biblioteca utilizada por um compilador
+
+NPM - gerenciador de pacotes do node;
+    - pode utilizar bibliotecas de terceiros
+    - executa scripts determinados no programa
+    - modulos externos ficam em node_modules
